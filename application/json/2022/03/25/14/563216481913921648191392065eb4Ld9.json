@@ -1,0 +1,583 @@
+[
+ {
+  "No.": 1,
+  "ID": "Pacific\/Majuro",
+  "Name(CN)": "马朱罗",
+  "Timezone": "UTC\/GMT+12:00",
+  "Name(EN)": "Majuro"
+ },
+ {
+  "No.": 2,
+  "ID": "Pacific\/Midway",
+  "Name(CN)": "中途岛",
+  "Timezone": "UTC\/GMT+08:00",
+  "Name(EN)": "Midway Atoll"
+ },
+ {
+  "No.": 3,
+  "ID": "Pacific\/Honolulu",
+  "Name(CN)": "檀香山（火奴鲁鲁）",
+  "Timezone": "UTC\/GMT-10:00",
+  "Name(EN)": "Honolulu"
+ },
+ {
+  "No.": 4,
+  "ID": "America\/Anchorage",
+  "Name(CN)": "安克雷奇",
+  "Timezone": "UTC\/GMT-09:00",
+  "Name(EN)": "Anchorage"
+ },
+ {
+  "No.": 5,
+  "ID": "America\/Los_Angeles",
+  "Name(CN)": "洛杉矶",
+  "Timezone": "UTC\/GMT-08:00",
+  "Name(EN)": "Los Angeles"
+ },
+ {
+  "No.": 6,
+  "ID": "America\/Tijuana",
+  "Name(CN)": "提华纳",
+  "Timezone": "UTC\/GMT-08:00",
+  "Name(EN)": "Tijuana"
+ },
+ {
+  "No.": 7,
+  "ID": "America\/Phoenix",
+  "Name(CN)": "凤凰城",
+  "Timezone": "UTC\/GMT-05:00",
+  "Name(EN)": "Phoenix"
+ },
+ {
+  "No.": 8,
+  "ID": "America\/Chihuahua",
+  "Name(CN)": "奇瓦瓦",
+  "Timezone": "UTC\/GMT-07:00",
+  "Name(EN)": "Chihuahua"
+ },
+ {
+  "No.": 9,
+  "ID": "America\/Denver",
+  "Name(CN)": "丹佛",
+  "Timezone": "UTC\/GMT-07:00",
+  "Name(EN)": "Denver"
+ },
+ {
+  "No.": 10,
+  "ID": "America\/Costa_Rica",
+  "Name(CN)": "哥斯达黎加",
+  "Timezone": "UTC\/GMT-06:00",
+  "Name(EN)": "Costa Rica"
+ },
+ {
+  "No.": 11,
+  "ID": "America\/Chicago",
+  "Name(CN)": "芝加哥",
+  "Timezone": "UTC\/GMT-06:00",
+  "Name(EN)": "Chicago"
+ },
+ {
+  "No.": 12,
+  "ID": "America\/Mexico_City",
+  "Name(CN)": "墨西哥城",
+  "Timezone": "UTC\/GMT-06:00",
+  "Name(EN)": "Mexico City"
+ },
+ {
+  "No.": 13,
+  "ID": "America\/Regina",
+  "Name(CN)": "里贾纳",
+  "Timezone": "UTC\/GMT-06:00",
+  "Name(EN)": "Regina"
+ },
+ {
+  "No.": 14,
+  "ID": "America\/Bogota",
+  "Name(CN)": "波哥大",
+  "Timezone": "UTC\/GMT-05:00",
+  "Name(EN)": "Bogotá"
+ },
+ {
+  "No.": 15,
+  "ID": "America\/New_York",
+  "Name(CN)": "纽约",
+  "Timezone": "UTC\/GMT-05:00",
+  "Name(EN)": "New York"
+ },
+ {
+  "No.": 16,
+  "ID": "America\/Caracas",
+  "Name(CN)": "加拉加斯",
+  "Timezone": "UTC\/GMT-04:00",
+  "Name(EN)": "Caracas"
+ },
+ {
+  "No.": 17,
+  "ID": "America\/Barbados",
+  "Name(CN)": "巴巴多斯",
+  "Timezone": "UTC\/GMT-04:00",
+  "Name(EN)": "Barbados"
+ },
+ {
+  "No.": 18,
+  "ID": "America\/Manaus",
+  "Name(CN)": "马瑙斯",
+  "Timezone": "UTC\/GMT-03:00",
+  "Name(EN)": "Manaus"
+ },
+ {
+  "No.": 19,
+  "ID": "America\/Santiago",
+  "Name(CN)": "圣地亚哥-德尔埃斯特罗",
+  "Timezone": "UTC\/GMT-03:00",
+  "Name(EN)": "San Diego"
+ },
+ {
+  "No.": 20,
+  "ID": "America\/St_Johns",
+  "Name(CN)": "圣约翰",
+  "Timezone": "UTC\/GMT-03:00",
+  "Name(EN)": "St. John"
+ },
+ {
+  "No.": 21,
+  "ID": "America\/Sao_Paulo",
+  "Name(CN)": "圣保罗",
+  "Timezone": "UTC\/GMT-02:00",
+  "Name(EN)": "San Paulo"
+ },
+ {
+  "No.": 22,
+  "ID": "America\/Argentina\/Buenos_Aires",
+  "Name(CN)": "布宜诺斯艾利斯",
+  "Timezone": "UTC\/GMT-03:00",
+  "Name(EN)": "Buenos Aires"
+ },
+ {
+  "No.": 23,
+  "ID": "America\/Godthab",
+  "Name(CN)": "戈特霍布",
+  "Timezone": "UTC\/GMT-03:00",
+  "Name(EN)": "Godthab"
+ },
+ {
+  "No.": 24,
+  "ID": "America\/Montevideo",
+  "Name(CN)": "蒙得维的亚",
+  "Timezone": "UTC\/GMT-03:00",
+  "Name(EN)": "Montevideo"
+ },
+ {
+  "No.": 25,
+  "ID": "Atlantic\/South_Georgia",
+  "Name(CN)": "南乔治亚",
+  "Timezone": "UTC\/GMT-02:00",
+  "Name(EN)": "South Georgia"
+ },
+ {
+  "No.": 26,
+  "ID": "Atlantic\/Azores",
+  "Name(CN)": "亚述尔群岛",
+  "Timezone": "UTC\/GMT-01:00",
+  "Name(EN)": "Assur Islands"
+ },
+ {
+  "No.": 27,
+  "ID": "Atlantic\/Cape_Verde",
+  "Name(CN)": "佛得角",
+  "Timezone": "UTC\/GMT-01:00",
+  "Name(EN)": "Cape Verde"
+ },
+ {
+  "No.": 28,
+  "ID": "Africa\/Casablanca",
+  "Name(CN)": "卡萨布兰卡",
+  "Timezone": "UTC\/GMT+00:00",
+  "Name(EN)": "Casablanca"
+ },
+ {
+  "No.": 29,
+  "ID": "Europe\/London",
+  "Name(CN)": "伦敦",
+  "Timezone": "UTC\/GMT+00:00",
+  "Name(EN)": "London"
+ },
+ {
+  "No.": 30,
+  "ID": "Europe\/Amsterdam",
+  "Name(CN)": "阿姆斯特丹",
+  "Timezone": "UTC\/GMT+01:00",
+  "Name(EN)": "Amsterdam"
+ },
+ {
+  "No.": 31,
+  "ID": "Europe\/Belgrade",
+  "Name(CN)": "贝尔格莱德",
+  "Timezone": "UTC\/GMT+01:00",
+  "Name(EN)": "Belgrade"
+ },
+ {
+  "No.": 32,
+  "ID": "Europe\/Brussels",
+  "Name(CN)": "布鲁塞尔",
+  "Timezone": "UTC\/GMT+01:00",
+  "Name(EN)": "Brussels"
+ },
+ {
+  "No.": 33,
+  "ID": "Europe\/Sarajevo",
+  "Name(CN)": "萨拉热窝",
+  "Timezone": "UTC\/GMT+01:00",
+  "Name(EN)": "SaLajevo"
+ },
+ {
+  "No.": 34,
+  "ID": "Africa\/Windhoek",
+  "Name(CN)": "温得和克",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Windhoeg"
+ },
+ {
+  "No.": 35,
+  "ID": "Africa\/Brazzaville",
+  "Name(CN)": "布拉扎维",
+  "Timezone": "UTC\/GMT+01:00",
+  "Name(EN)": "Brazavi"
+ },
+ {
+  "No.": 36,
+  "ID": "Asia\/Amman",
+  "Name(CN)": "安曼",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Amman"
+ },
+ {
+  "No.": 37,
+  "ID": "Europe\/Athens",
+  "Name(CN)": "雅典",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Athens"
+ },
+ {
+  "No.": 38,
+  "ID": "Asia\/Beirut",
+  "Name(CN)": "贝鲁特",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Beirut"
+ },
+ {
+  "No.": 39,
+  "ID": "Africa\/Cairo",
+  "Name(CN)": "开罗",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Cairo"
+ },
+ {
+  "No.": 40,
+  "ID": "Europe\/Helsinki",
+  "Name(CN)": "赫尔辛基",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Helsinki"
+ },
+ {
+  "No.": 41,
+  "ID": "Asia\/Jerusalem",
+  "Name(CN)": "耶路撒冷",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Jerusalem"
+ },
+ {
+  "No.": 42,
+  "ID": "Europe\/Minsk",
+  "Name(CN)": "明斯克",
+  "Timezone": "UTC\/GMT+03:00",
+  "Name(EN)": "Minsk"
+ },
+ {
+  "No.": 43,
+  "ID": "Africa\/Harare",
+  "Name(CN)": "哈拉雷",
+  "Timezone": "UTC\/GMT+02:00",
+  "Name(EN)": "Harare"
+ },
+ {
+  "No.": 44,
+  "ID": "Asia\/Baghdad",
+  "Name(CN)": "巴格达",
+  "Timezone": "UTC\/GMT+03:00",
+  "Name(EN)": "Baghdad"
+ },
+ {
+  "No.": 45,
+  "ID": "Europe\/Moscow",
+  "Name(CN)": "莫斯科",
+  "Timezone": "UTC\/GMT+03:00",
+  "Name(EN)": "Moscow"
+ },
+ {
+  "No.": 46,
+  "ID": "Asia\/Kuwait",
+  "Name(CN)": "科威特",
+  "Timezone": "UTC\/GMT+03:00",
+  "Name(EN)": "Kuwait"
+ },
+ {
+  "No.": 47,
+  "ID": "Africa\/Nairobi",
+  "Name(CN)": "内罗毕",
+  "Timezone": "UTC\/GMT+03:00",
+  "Name(EN)": "Nairobi"
+ },
+ {
+  "No.": 48,
+  "ID": "Asia\/Tehran",
+  "Name(CN)": "德黑兰",
+  "Timezone": "UTC\/GMT+03:00",
+  "Name(EN)": "Tehran"
+ },
+ {
+  "No.": 49,
+  "ID": "Asia\/Baku",
+  "Name(CN)": "巴库",
+  "Timezone": "UTC\/GMT+04:00",
+  "Name(EN)": "Baku"
+ },
+ {
+  "No.": 50,
+  "ID": "Asia\/Tbilisi",
+  "Name(CN)": "第比利斯",
+  "Timezone": "UTC\/GMT+04:00",
+  "Name(EN)": "Tbilisi"
+ },
+ {
+  "No.": 51,
+  "ID": "Asia\/Yerevan",
+  "Name(CN)": "埃里温",
+  "Timezone": "UTC\/GMT+04:00",
+  "Name(EN)": "Yerevan"
+ },
+ {
+  "No.": 52,
+  "ID": "Asia\/Dubai",
+  "Name(CN)": "迪拜",
+  "Timezone": "UTC\/GMT+04:00",
+  "Name(EN)": "Dubai"
+ },
+ {
+  "No.": 53,
+  "ID": "Asia\/Kabul",
+  "Name(CN)": "喀布尔",
+  "Timezone": "UTC\/GMT+04:00",
+  "Name(EN)": "Kabul"
+ },
+ {
+  "No.": 54,
+  "ID": "Asia\/Karachi",
+  "Name(CN)": "卡拉奇",
+  "Timezone": "UTC\/GMT+05:00",
+  "Name(EN)": "Karachi"
+ },
+ {
+  "No.": 55,
+  "ID": "Asia\/Oral",
+  "Name(CN)": "乌拉尔",
+  "Timezone": "UTC\/GMT+05:00",
+  "Name(EN)": "Ural"
+ },
+ {
+  "No.": 56,
+  "ID": "Asia\/Yekaterinburg",
+  "Name(CN)": "叶卡捷林堡",
+  "Timezone": "UTC\/GMT+05:00",
+  "Name(EN)": "Yekaterinburg"
+ },
+ {
+  "No.": 57,
+  "ID": "Asia\/Calcutta",
+  "Name(CN)": "加尔各答",
+  "Timezone": "UTC\/GMT+05:30",
+  "Name(EN)": "Kolkata"
+ },
+ {
+  "No.": 58,
+  "ID": "Asia\/Colombo",
+  "Name(CN)": "科伦坡",
+  "Timezone": "UTC\/GMT+05:30",
+  "Name(EN)": "Colombo"
+ },
+ {
+  "No.": 59,
+  "ID": "Asia\/Katmandu",
+  "Name(CN)": "加德满都",
+  "Timezone": "UTC\/GMT+05:45",
+  "Name(EN)": "Kathmandu"
+ },
+ {
+  "No.": 60,
+  "ID": "Asia\/Almaty",
+  "Name(CN)": "阿拉木图",
+  "Timezone": "UTC\/GMT+06:00",
+  "Name(EN)": "Almaty"
+ },
+ {
+  "No.": 61,
+  "ID": "Asia\/Rangoon",
+  "Name(CN)": "仰光",
+  "Timezone": "UTC\/GMT+06:30",
+  "Name(EN)": "Yangon"
+ },
+ {
+  "No.": 62,
+  "ID": "Asia\/Krasnoyarsk",
+  "Name(CN)": "克拉斯诺亚尔斯克",
+  "Timezone": "UTC\/GMT+07:00",
+  "Name(EN)": "Krasnoyarsk"
+ },
+ {
+  "No.": 63,
+  "ID": "Asia\/Bangkok",
+  "Name(CN)": "曼谷",
+  "Timezone": "UTC\/GMT+07:00",
+  "Name(EN)": "Bangkok"
+ },
+ {
+  "No.": 64,
+  "ID": "Asia\/Shanghai",
+  "Name(CN)": "北京",
+  "Timezone": "UTC\/GMT+08:00",
+  "Name(EN)": "Beijing"
+ },
+ {
+  "No.": 65,
+  "ID": "Asia\/Hong_Kong",
+  "Name(CN)": "香港",
+  "Timezone": "UTC\/GMT+08:00",
+  "Name(EN)": "Hong Kong"
+ },
+ {
+  "No.": 66,
+  "ID": "Asia\/Irkutsk",
+  "Name(CN)": "伊尔库茨克",
+  "Timezone": "UTC\/GMT+08:00",
+  "Name(EN)": "Irkutsk"
+ },
+ {
+  "No.": 67,
+  "ID": "Asia\/Kuala_Lumpur",
+  "Name(CN)": "吉隆坡",
+  "Timezone": "UTC\/GMT+08:00",
+  "Name(EN)": "Kuala Lumpur"
+ },
+ {
+  "No.": 68,
+  "ID": "Australia\/Perth",
+  "Name(CN)": "珀斯",
+  "Timezone": "UTC\/GMT+08:00",
+  "Name(EN)": "Perth"
+ },
+ {
+  "No.": 69,
+  "ID": "Asia\/Taipei",
+  "Name(CN)": "台北",
+  "Timezone": "UTC\/GMT+08:00",
+  "Name(EN)": "Taipei"
+ },
+ {
+  "No.": 70,
+  "ID": "Asia\/Seoul",
+  "Name(CN)": "首尔",
+  "Timezone": "UTC\/GMT+09:00",
+  "Name(EN)": "Seoul"
+ },
+ {
+  "No.": 71,
+  "ID": "Asia\/Tokyo",
+  "Name(CN)": "东京",
+  "Timezone": "UTC\/GMT+09:00",
+  "Name(EN)": "Tokyo"
+ },
+ {
+  "No.": 72,
+  "ID": "Asia\/Yakutsk",
+  "Name(CN)": "雅库茨克",
+  "Timezone": "UTC\/GMT+09:00",
+  "Name(EN)": "Yakutsk"
+ },
+ {
+  "No.": 73,
+  "ID": "Australia\/Adelaide",
+  "Name(CN)": "阿德莱德",
+  "Timezone": "UTC\/GMT+10:00",
+  "Name(EN)": "Adelaide"
+ },
+ {
+  "No.": 74,
+  "ID": "Australia\/Darwin",
+  "Name(CN)": "达尔文",
+  "Timezone": "UTC\/GMT+09:30",
+  "Name(EN)": "Darwin"
+ },
+ {
+  "No.": 75,
+  "ID": "Australia\/Brisbane",
+  "Name(CN)": "布里斯班",
+  "Timezone": "UTC\/GMT+10:00",
+  "Name(EN)": "Brisbane"
+ },
+ {
+  "No.": 76,
+  "ID": "Australia\/Hobart",
+  "Name(CN)": "霍巴特",
+  "Timezone": "UTC\/GMT+11:00",
+  "Name(EN)": "Hobart"
+ },
+ {
+  "No.": 77,
+  "ID": "Australia\/Sydney",
+  "Name(CN)": "悉尼",
+  "Timezone": "UTC\/GMT+11:00",
+  "Name(EN)": "Sydney"
+ },
+ {
+  "No.": 78,
+  "ID": "Asia\/Vladivostok",
+  "Name(CN)": "符拉迪沃斯托克",
+  "Timezone": "UTC\/GMT+10:00",
+  "Name(EN)": "Vladivostok"
+ },
+ {
+  "No.": 79,
+  "ID": "Pacific\/Guam",
+  "Name(CN)": "关岛",
+  "Timezone": "UTC\/GMT+10:00",
+  "Name(EN)": "Guam"
+ },
+ {
+  "No.": 80,
+  "ID": "Asia\/Magadan",
+  "Name(CN)": "马加丹",
+  "Timezone": "UTC\/GMT+11:00",
+  "Name(EN)": "Magadan"
+ },
+ {
+  "No.": 81,
+  "ID": "Pacific\/Auckland",
+  "Name(CN)": "奥克兰",
+  "Timezone": "UTC\/GMT+13:00",
+  "Name(EN)": "Auckland"
+ },
+ {
+  "No.": 82,
+  "ID": "Pacific\/Fiji",
+  "Name(CN)": "斐济",
+  "Timezone": "UTC\/GMT+12:00",
+  "Name(EN)": "Fiji"
+ },
+ {
+  "No.": 83,
+  "ID": "Pacific\/Tongatapu",
+  "Name(CN)": "东加塔布",
+  "Timezone": "UTC\/GMT+13:00",
+  "Name(EN)": "Tongatapu"
+ }
+]
